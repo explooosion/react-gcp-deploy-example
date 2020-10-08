@@ -39,6 +39,10 @@ jobs:
         service_account_email: ${{ secrets.GCP_SA_EMAIL }}
         service_account_key: ${{ secrets.GCP_SA_KEY }}
         project_id: ${{ secrets.GCP_PROJECT_ID }}
+        export_default_credentials: true
+        
+    - name: Info
+      run: gcloud info
 
     # Build and push image to Google Container Registry
     - name: Build
