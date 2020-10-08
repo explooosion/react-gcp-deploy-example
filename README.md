@@ -4,6 +4,8 @@ Build your app to docker image, publish and deploy on GCP [Cloud Run](https://co
 
 GCP Cloud Run: [DEMO](https://create-react-app-2w7qqxwz2q-uc.a.run.app/)
 
+# Configuration
+
 1. Create GCP [project](https://console.cloud.google.com/projectcreate)
 
 2. Creating [service account keys](https://cloud.google.com/iam/docs/creating-managing-service-account-keys)
