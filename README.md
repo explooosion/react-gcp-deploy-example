@@ -1,6 +1,6 @@
 # React GCP Deploy Example
 
-Build your app to docker image, publish and deploy on GCP [Cloud Run](https://console.cloud.google.com/run).
+Build your app to docker image, publish and deploy on GCP [Cloud Run](https://console.cloud.google.com/run) with github actions.
 
 GCP Cloud Run: [DEMO](https://create-react-app-2w7qqxwz2q-uc.a.run.app/)
 
