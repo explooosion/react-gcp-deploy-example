@@ -2,8 +2,6 @@
 
 Build your app to docker image, publish and deploy on GCP [Cloud Run](https://console.cloud.google.com/run) with github actions.
 
-GCP Cloud Run: [DEMO](https://create-react-app-2w7qqxwz2q-uc.a.run.app/)
-
 Blog: [GCP - 使用 Github Actions 部署 React 到 Cloud Run](https://dotblogs.com.tw/explooosion/2020/10/09/143330)
 
 # Configuration
