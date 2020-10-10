@@ -40,7 +40,3 @@ Blog: [GCP - 使用 Github Actions 部署 React 到 Cloud Run](https://dotblogs.
 7. Push your project to Github repo
 
 6. Run Github Actions
-
-8. Add `allUsers` as a member and assign it the role of "Cloud Run Caller"
-
-9. Check out the website
